@@ -1,0 +1,32 @@
+- name: Small bag
+  id: 1001
+  price: 169.99
+  max_quantity: 10
+  path: products/small-bag
+  image: http://placehold.it/350x200
+  description:
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc nulla dui, imperdiet sed venenatis vitae, convallis et dolor. Mauris id sagittis diam. Sed efficitur hendrerit consectetur. Etiam sagittis suscipit ligula. Vestibulum ac sagittis eros, eget elementum odio. Duis bibendum ex vitae urna venenatis, ut bibendum lectus interdum. In ac dictum diam.
+
+    Donec at tellus quis purus congue feugiat non eu nulla. Donec nisi nibh, blandit quis justo pharetra, fringilla elementum neque. Proin ex turpis, vestibulum sed massa eget, iaculis accumsan nibh. Fusce vitae enim efficitur, finibus nisi ut, aliquam mi. Aenean porttitor, nibh nec cursus ultrices, ligula purus venenatis nunc, nec pharetra purus enim vitae sem. Maecenas hendrerit mauris sit amet neque molestie ultrices. Phasellus vitae leo augue. Sed imperdiet molestie ligula, quis suscipit lectus mattis non. Phasellus ac dapibus justo. Quisque mollis interdum risus eu consectetur. Proin cursus turpis purus, in accumsan quam dictum ut. Proin tempor tincidunt massa, sed dapibus urna ultrices vitae. Duis iaculis magna libero, id aliquam odio convallis ut. Morbi in ante sit amet urna pulvinar dictum ac sit amet dolor. Aliquam aliquam rutrum lorem, sit amet dictum nulla.
+
+- name: Leather bag
+  id: 1002
+  price: 200.00
+  max_quantity: 20
+  path: products/leather-bag
+  image: http://placehold.it/350x200
+  description:
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc nulla dui, imperdiet sed venenatis vitae, convallis et dolor. Mauris id sagittis diam. Sed efficitur hendrerit consectetur. Etiam sagittis suscipit ligula. Vestibulum ac sagittis eros, eget elementum odio. Duis bibendum ex vitae urna venenatis, ut bibendum lectus interdum. In ac dictum diam.
+
+    Donec at tellus quis purus congue feugiat non eu nulla. Donec nisi nibh, blandit quis justo pharetra, fringilla elementum neque. Proin ex turpis, vestibulum sed massa eget, iaculis accumsan nibh. Fusce vitae enim efficitur, finibus nisi ut, aliquam mi. Aenean porttitor, nibh nec cursus ultrices, ligula purus venenatis nunc, nec pharetra purus enim vitae sem. Maecenas hendrerit mauris sit amet neque molestie ultrices. Phasellus vitae leo augue. Sed imperdiet molestie ligula, quis suscipit lectus mattis non. Phasellus ac dapibus justo. Quisque mollis interdum risus eu consectetur. Proin cursus turpis purus, in accumsan quam dictum ut. Proin tempor tincidunt massa, sed dapibus urna ultrices vitae. Duis iaculis magna libero, id aliquam odio convallis ut. Morbi in ante sit amet urna pulvinar dictum ac sit amet dolor. Aliquam aliquam rutrum lorem, sit amet dictum nulla.
+
+- name: Messenger bag
+  id: 1003
+  price: 99.99
+  max_quantity: 5
+  path: products/messenger-bag
+  image: http://placehold.it/350x200
+  description:
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc nulla dui, imperdiet sed venenatis vitae, convallis et dolor. Mauris id sagittis diam. Sed efficitur hendrerit consectetur. Etiam sagittis suscipit ligula. Vestibulum ac sagittis eros, eget elementum odio. Duis bibendum ex vitae urna venenatis, ut bibendum lectus interdum. In ac dictum diam.
+
+    Donec at tellus quis purus congue feugiat non eu nulla. Donec nisi nibh, blandit quis justo pharetra, fringilla elementum neque. Proin ex turpis, vestibulum sed massa eget, iaculis accumsan nibh. Fusce vitae enim efficitur, finibus nisi ut, aliquam mi. Aenean porttitor, nibh nec cursus ultrices, ligula purus venenatis nunc, nec pharetra purus enim vitae sem. Maecenas hendrerit mauris sit amet neque molestie ultrices. Phasellus vitae leo augue. Sed imperdiet molestie ligula, quis suscipit lectus mattis non. Phasellus ac dapibus justo. Quisque mollis interdum risus eu consectetur. Proin cursus turpis purus, in accumsan quam dictum ut. Proin tempor tincidunt massa, sed dapibus urna ultrices vitae. Duis iaculis magna libero, id aliquam odio convallis ut. Morbi in ante sit amet urna pulvinar dictum ac sit amet dolor. Aliquam aliquam rutrum lorem, sit amet dictum nulla.

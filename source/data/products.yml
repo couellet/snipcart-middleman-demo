@@ -1,0 +1,15 @@
+bags:
+  - name: Bag
+    id: BAG
+    price: 169.99
+    max_quantity: 10
+  - name: Leather bag
+    id: LEATHER_BAG
+    price: 200.00
+    max_quantity: 20
+    
+shirts:
+  - name: tshirt
+    price: 200
+    max_quantity: 20
+    id: BLE
